@@ -185,7 +185,7 @@ pages/
 
 - *Abhiram Bikkina*
 - *Tharun Kumar Reddy*
-- *Dhinesh Veera Bhargav*
+- *Dinesh Veera Bhargav*
 - *Pavan Vignesh*
 
 ---
